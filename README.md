@@ -1,5 +1,5 @@
 # DSO-560
-## Natrual Language Processing Movie Review Project
+## Natrual Language Processing IMDB Movie Review Project
 
 ### Project Scope: 
 
@@ -11,7 +11,7 @@ This can be accomplished through a sentiment model and multiclassification model
 
 These models can also deliver advanced insights into how sentiment and reviews can influence film performance.
 
-Our goal is to deliver four business solutions to address the needs of the company and open new analysis opportunities that can be offered as services to production companies.  
+Our goal is to deliver business solutions to address the needs of the company and open new analysis opportunities that can be offered as services to production companies.  
 
 ### Project Solutions
 
